@@ -1,5 +1,4 @@
 # 🔁 Recursion Mastery in C  
-### Crafted by **Anirban Chattaraj**
 
 > _“Recursion is not repetition — it’s reflection.”_ 🧘‍♂️  
 
@@ -29,3 +28,4 @@ Differentiating increasing and decreasing recursion
 Applying multi-branch recursion for complex patterns
 
 Building clean, optimized, and reusable recursive solutions
+Author-->
