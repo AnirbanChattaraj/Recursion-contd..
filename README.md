@@ -28,4 +28,6 @@ Differentiating increasing and decreasing recursion
 Applying multi-branch recursion for complex patterns
 
 Building clean, optimized, and reusable recursive solutions
-Author-->
+
+Author-->Anirban Chattaraj
+
